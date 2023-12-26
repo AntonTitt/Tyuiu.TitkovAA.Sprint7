@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Tyuiu.TitkovAA.Sprint7.V10
+namespace Tyuiu.TitkovAA.Sprint7.Project.V10
 {
-    public partial class FormMain : Form
+    public partial class FormAboutMe4Real : Form
     {
-        public FormMain()
+        public FormAboutMe4Real()
         {
             InitializeComponent();
         }

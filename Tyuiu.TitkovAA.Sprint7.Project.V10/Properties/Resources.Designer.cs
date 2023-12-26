@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace Tyuiu.TitkovAA.Sprint7.V10.Properties
+namespace Tyuiu.TitkovAA.Sprint7.Project.V10.Properties
 {
     /// <summary>
     ///   Класс ресурсов со строгим типом для поиска локализованных строк и пр.
@@ -43,7 +43,7 @@ namespace Tyuiu.TitkovAA.Sprint7.V10.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Tyuiu.TitkovAA.Sprint7.V10.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Tyuiu.TitkovAA.Sprint7.Project.V10.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

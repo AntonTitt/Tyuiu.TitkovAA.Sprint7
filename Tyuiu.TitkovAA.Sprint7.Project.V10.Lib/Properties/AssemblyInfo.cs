@@ -4,23 +4,23 @@ using System.Runtime.InteropServices;
 
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
-// связанных со сборкой.
-[assembly: AssemblyTitle("Tyuiu.TitkovAA.Sprint7.V10")]
+// связанные со сборкой.
+[assembly: AssemblyTitle("Tyuiu.TitkovAA.Sprint7.Project.V10.Lib")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Tyuiu.TitkovAA.Sprint7.V10")]
+[assembly: AssemblyProduct("Tyuiu.TitkovAA.Sprint7.Project.V10.Lib")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // Установка значения False для параметра ComVisible делает типы в этой сборке невидимыми
 // для компонентов COM. Если необходимо обратиться к типу в этой сборке через
-// COM, следует установить атрибут ComVisible в TRUE для этого типа.
+// COM, задайте атрибуту ComVisible значение TRUE для этого типа.
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("827037e0-0bcb-4866-b7f9-5dfb4c9a909e")]
+[assembly: Guid("47f3f7d0-eded-4f16-8391-c259ff13354d")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

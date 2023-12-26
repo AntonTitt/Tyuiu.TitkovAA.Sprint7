@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A955BDFB-9A07-40C5-8946-80466E4DEBC0}</ProjectGuid>
+    <ProjectGuid>{5FAAD1F0-EB30-49F2-9B6C-9F782CE85FCD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.TitkovAA.Sprint7.V10.Test</RootNamespace>
-    <AssemblyName>Tyuiu.TitkovAA.Sprint7.V10.Test</AssemblyName>
+    <RootNamespace>Tyuiu.TitkovAA.Sprint7.Project.V10.Test</RootNamespace>
+    <AssemblyName>Tyuiu.TitkovAA.Sprint7.Project.V10.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.TitkovAA.Sprint7.V10.Lib\Tyuiu.TitkovAA.Sprint7.V10.Lib.csproj">
-      <Project>{0f156a92-6cf7-4908-8f4e-614fab92bdb1}</Project>
-      <Name>Tyuiu.TitkovAA.Sprint7.V10.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.TitkovAA.Sprint7.Project.V10.Lib\Tyuiu.TitkovAA.Sprint7.Project.V10.Lib.csproj">
+      <Project>{47f3f7d0-eded-4f16-8391-c259ff13354d}</Project>
+      <Name>Tyuiu.TitkovAA.Sprint7.Project.V10.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
